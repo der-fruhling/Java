@@ -1,4 +1,4 @@
 # Java
-Hey,\n
-Thanks for checking out my horidible java code,\n
+Hey,                                                                                                                           
+Thanks for checking out my horidible java code,                                                                               
 Theres really not much here...
